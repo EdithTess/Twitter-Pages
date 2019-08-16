@@ -1,0 +1,58 @@
+.flex-box{
+    display:flex;
+    justify-content: initial;
+}
+.flex-item{
+
+
+    /* text-emphasis:initial; */
+    text-align: start;
+     padding: 100px; 
+    
+}
+.white{
+    background-color: white;
+}
+.red{
+    background-color: red;
+    float: right;
+}
+.blue{
+    background-color: blue;
+}
+
+.imag{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsUxF4k3bP1pyT9Ibkv2Cm35fektjMEPNamydy7y5oq659TdSM");
+  background-color: #cccccc; 
+  /* height: 500px;  */
+  /* background-position: center;  */
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  /*background-image: radial-gradient(cyan 0.2%, cyan 30%);*/
+
+}
+.yellow{
+    background-color: yellow;
+}
+.button1{
+    float: right;
+    /*background-color: cyan;*/
+    border-block-color: cyan;
+    text-decoration: aqua;
+   
+    padding: 5PX;
+   border-radius: 20px;
+}
+.button2{
+    background-color: aqua;
+    width: 200px;
+    padding: PX;
+   border-radius: 10px;
+}
+.button3{
+    /*background-color: cyan;*/
+    border-block-color: cyan;
+    width: 200px;
+    padding: PX;
+   border-radius: 10px;
+}
